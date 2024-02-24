@@ -24,10 +24,16 @@
         },
         "icon-image": [
           "match",
-          ["get", "subclass"],
+          [
+            "get",
+            "subclass"
+          ],
           "chocolate",
           "confectionery",
-          ["get", "subclass"]
+          [
+            "get",
+            "subclass"
+          ]
         ],
         "text-field": "{name:latin}\n{name:nonlatin}",
         "visibility": "visible",
@@ -107,10 +113,16 @@
         },
         "icon-image": [
           "match",
-          ["get", "subclass"],
+          [
+            "get",
+            "subclass"
+          ],
           "chocolate",
           "confectionery",
-          ["get", "subclass"]
+          [
+            "get",
+            "subclass"
+          ]
         ],
         "text-field": "{name:latin}\n{name:nonlatin}",
         "visibility": "visible",
